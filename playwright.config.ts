@@ -50,7 +50,6 @@ export default defineConfig({
         os: process.platform
       }
     }],
-    //['./console-reporter.ts'],
     ['list']
   ],
 

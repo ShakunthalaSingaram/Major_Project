@@ -5,7 +5,7 @@ import { LoginPage } from '../pages/LoginPage';
 import { Home } from '../pages/HomePage';
 import { ScreenshotHelper } from '../utils/ScreenshotHelper';
 
-test.setTimeout(300_000); // 5 minutes for all scenarios
+//test.setTimeout(300_000); // 5 minutes for all scenarios
 
 test.describe('Hackathon Project - Complete Test Suite', () => {
 

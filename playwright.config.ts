@@ -81,7 +81,7 @@ export default defineConfig({
     /* Maximum time for navigation actions */
     navigationTimeout: 60 * 1000,
 
-    headless: true,
+    headless: false,
 
     // launchOptions:{
 
